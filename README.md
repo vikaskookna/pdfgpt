@@ -1,1 +1,5 @@
 # pdfgpt
+
+```
+python main.py
+```
